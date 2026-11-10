@@ -1,0 +1,11 @@
+{
+  "org": "GravityLabs",
+  "repo": "goose",
+  "versions": [
+    {
+      "commit": "462f04a0b3d79508266770fd2462b1d4b43f6c54",
+      "tag": "",
+      "parsed_at": "2026-11-10T02:59:50.661182+00:00"
+    }
+  ]
+}
