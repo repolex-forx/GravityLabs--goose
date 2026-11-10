@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/GravityLabs/goose/commit/462f04a0b3d79508266770fd2462b1d4b43f6c54",
       "git:hexsha": "462f04a0b3d79508266770fd2462b1d4b43f6c54",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T02:59:50.660551+00:00"
     },
     {
       "@id": "https://repolex.ai/r/GravityLabs/goose/commit/9ac4e9d36cb538285950f9919f50225ccba996fb",
